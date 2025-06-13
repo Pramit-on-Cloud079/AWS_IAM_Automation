@@ -36,6 +36,3 @@ IAM is the backbone of secure AWS usage. Automating IAM ensures:
 - Faster provisioning for real-world cloud projects
 - Essential for DevOps & Cloud Engineer roles
 
----
-
-✅ Great for resumes, LinkedIn, and Upwork profiles as real-world experience.
